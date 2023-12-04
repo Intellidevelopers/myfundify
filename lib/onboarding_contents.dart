@@ -11,10 +11,12 @@ class OnboardingContents {
 }
 
 List<OnboardingContents> contents = [
+  // Add more OnboardingContents items as neede
   OnboardingContents(
     title: "Digital Wallet, Your Financial Hub",
     image: "assets/images/image1.png",
-    desc: "Lets embark on a journey to transform the way you manage your money.",
+    desc:
+        "Lets embark on a journey to transform the way you manage your money.",
   ),
   OnboardingContents(
     title: "Investing Simplified!",

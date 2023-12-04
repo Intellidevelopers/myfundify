@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'onboarding_screen.dart';
-
+import 'package:onboarding_app/onboarding_screen.dart';
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
